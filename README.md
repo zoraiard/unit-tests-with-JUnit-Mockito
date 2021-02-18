@@ -18,12 +18,12 @@ Um teste unitário pode executar comandos em um banco de dados relacional, mas n
 
 AAA Pattern é o Padrão para implementação de testes unitários adotado pela comunidade de testes.
 
-* 1 - Facilita a manutenção do código
-* 2 - Redução de Custos
-* 3 - Melhora o Design da Aplicação
-* 4 - Serve como documentação do sistema
-* 5 - Os testes unitários ajudam o desenvolvedor a perder menos tempo para entender e modificar o código, e ter mais tempo para implementar novos códigos.
-* 6 - O teste unitário ajuda a identificar problemas na aplicação e a ajuda a melhorar o design.
+* Facilita a manutenção do código
+* Redução de Custos
+* Melhora o Design da Aplicação
+* Serve como documentação do sistema
+* Os testes unitários ajudam o desenvolvedor a perder menos tempo para entender e modificar o código, e ter mais tempo para implementar novos códigos.
+* O teste unitário ajuda a identificar problemas na aplicação e a ajuda a melhorar o design.
 
 ## JUnit
 JUnit o é principal framework utilizado para implementação de testes unitários em Java.
@@ -59,4 +59,4 @@ São características do Mockito:
 * Fácil de Usar
 * Foi Top 10 Library
 
-O método mock() serve para: Construir um Mock.
+O método mock() serve para construir um mock.
