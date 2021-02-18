@@ -1,6 +1,6 @@
 # Teste Unitários com Frameworks JUnit e Mockito
 
-Elegant and robust Unit Tests using JUnit and Mockito frameworks
+Testes unitários elegantes e robustos utilizando os frameworks JUnit e Mockito
 
 ##  Conceitos relacionados ao assunto
 
